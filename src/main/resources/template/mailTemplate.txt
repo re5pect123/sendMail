@@ -1,0 +1,10 @@
+ <html>
+
+    <body>
+        <h3>Postovani, ${user.name} hvala sto koristite aplikaciju.</h3>
+
+        <div>
+            Vasa sifra je ${user.password}.
+        </div>
+    </body>
+</html>
